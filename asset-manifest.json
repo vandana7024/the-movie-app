@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/the-movie-app/static/css/main.6a8c74ff.css",
+    "main.js": "/the-movie-app/static/js/main.7c655800.js",
+    "static/js/787.7c42db31.chunk.js": "/the-movie-app/static/js/787.7c42db31.chunk.js",
+    "static/media/user.png": "/the-movie-app/static/media/user.109eb92014ac0b55efdf.png",
+    "index.html": "/the-movie-app/index.html",
+    "main.6a8c74ff.css.map": "/the-movie-app/static/css/main.6a8c74ff.css.map",
+    "main.7c655800.js.map": "/the-movie-app/static/js/main.7c655800.js.map",
+    "787.7c42db31.chunk.js.map": "/the-movie-app/static/js/787.7c42db31.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.6a8c74ff.css",
+    "static/js/main.7c655800.js"
+  ]
+}
